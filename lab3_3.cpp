@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-	int x=6;
+	int text1;
 	float sum=0;
 	while(x<=19){
 		sum+=(1.0/x);
